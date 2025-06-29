@@ -88,14 +88,14 @@ de web scraping, automação e manipulação dedados com Python.\n\nFontes: Glob
 
 def ajuda():
     print('''
-    ℹ️ *Guia de Ajuda do Bot de Notícias Agrícolas*
+ℹ️ *Guia de Ajuda do Bot de Notícias Agrícolas*
+git
+Este bot foi desenvolvido para te manter atualizado com as últimas notícias do agronegócio, coletando informações dos principais portais.
 
-    Este bot foi desenvolvido para te manter atualizado com as últimas notícias do agronegócio, coletando informações dos principais portais.
-
-    *Funcionalidades Principais:*
-    1. *Sites de Notícias:* Selecione esta opção para escolher entre os sites disponíveis (Globo Rural, Canal Rural, AgroLink) e ver as notícias mais recentes. 
-    2. *Sobre:* Conheça mais sobre os criadores e o propósito deste projeto.
-    3. *Sair:* Encerra a sessão do bot
+*Funcionalidades Principais:*
+1. *Sites de Notícias:* Selecione esta opção para escolher entre os sites disponíveis (Globo Rural, Canal Rural, AgroLink) e ver as notícias mais recentes. 
+2. *Sobre:* Conheça mais sobre os criadores e o propósito deste projeto.
+3. *Sair:* Encerra a sessão do bot
     ''')
 
 
