@@ -11,8 +11,6 @@ from telegram.ext import (
 )
 from telegram.helpers import escape_markdown # Importa a função para escapar caracteres Markdown
 
-# TOKEN do seu bot do Telegram
-# Mantenha seu token seguro e não o exponha em ambientes públicos.
 TOKEN = '7571180435:AAHkH8imAm8u0RT2COUy7o4FDua4OgpVQNM'
 
 # --- Comando /start ---
