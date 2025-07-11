@@ -89,7 +89,6 @@ de web scraping, automação e manipulação dedados com Python.\n\nFontes: Glob
 def ajuda():
     print('''
 ℹ️ *Guia de Ajuda do Bot de Notícias Agrícolas*
-git
 Este bot foi desenvolvido para te manter atualizado com as últimas notícias do agronegócio, coletando informações dos principais portais.
 
 *Funcionalidades Principais:*
